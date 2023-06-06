@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuy.testsuite.StoresAssertionTest" skipped="0" tests="1" time="0.48" timestamp="2023-06-05T12:31:24.454+01:00[Europe/London]"><testcase classname="com.bestbuy.testsuite.StoresAssertionTest" name="Verify the if the total is equal to 1561"/></testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuy.testsuite.ProductsAssertionTest" skipped="0" tests="1" time="0.0" timestamp="2023-06-05T12:27:39.639+01:00[Europe/London]"><testcase classname="com.bestbuy.testsuite.ProductsAssertionTest" name="Initialisation"><error type="java.util.EmptyStackException"/><system-err>null&#13;
+net.serenitybdd.rest.utils.RestReportingHelper.registerCall(RestReportingHelper.java:79)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated.execute(RequestSpecificationDecorated.java:263)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated.get(RequestSpecificationDecorated.java:48)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated.get(RequestSpecificationDecorated.java:27)&#13;
+com.bestbuy.testsuite.ProductsAssertionTest.inIt(ProductsAssertionTest.java:26)&#13;
+</system-err></testcase></testsuite>
